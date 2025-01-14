@@ -1,7 +1,7 @@
 # VS Code for Data and AI Projects
 
 <a target="_blank" href="https://blog.amazoninstructor.info/">
-<img src="https://amazoninstructor.info/img/svg/AmazonInstructor-Project-Template-blue.svg" alt="AmazonInstructorInfo Project" />
+<img src="https://img.shields.io/badge/AmazonInstructor-Project%20Template-blue" alt="AmazonInstructorInfo Project" />
 
 </a>
 
